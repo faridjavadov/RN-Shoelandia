@@ -1,0 +1,35 @@
+export const sizes =[
+    {
+        id:1,
+        size:39
+    },
+    {
+        id:2,
+        size:40
+    },
+    {
+        id:3,
+        size:41
+    },
+    {
+        id:4,
+        size:42
+    },
+    {
+        id:5,
+        size:43
+    },
+    {
+        id:6,
+        size:44
+    },
+    {
+        id:7,
+        size:45
+    },
+    {
+        id:8,
+        size:46
+    },
+
+]
